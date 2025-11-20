@@ -1,0 +1,16 @@
+model: model.pt
+src: test_enzyme_argue10_input_group.txt
+# src: /home/wangyitian/wangyitian/opennmt-model/other_method_result/test.txt
+output: test_enzyme_nbest10_argue10_beamsize20.txt
+# output: /home/wangyitian/wangyitian/opennmt-model/output/test_set/test_3.txt
+beam_size: 20
+n_best: 10
+gpu: 0
+# batch_size: 16384
+batch_size: 1000
+batch_type: tokens
+max_length: 1500
+seed: 0
+# with_score: True
+
+

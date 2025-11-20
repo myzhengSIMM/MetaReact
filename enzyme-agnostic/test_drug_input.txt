@@ -1,0 +1,10 @@
+C O C 1 = N N C 2 = C 1 C = C ( C # C C 1 = C ( F ) C = C C ( C S ( = O ) ( N C 3 = C C = C C = C 3 ) = O ) = C 1 F ) C = N 2 | <unk>
+C 1 ( C # C C 2 = C N = C 3 C ( = C 2 ) C ( O C ) = N N 3 ) = C ( F ) C ( C S ( N C 2 = C C = C C = C 2 ) ( = O ) = O ) = C C = C 1 F | <unk>
+O = S ( C C 1 = C ( F ) C ( C # C C 2 = C C 3 = C ( N N = C 3 O C ) N = C 2 ) = C ( F ) C = C 1 ) ( = O ) N C 1 = C C = C C = C 1 | <unk>
+N ( C 1 = C C = C C = C 1 ) S ( = O ) ( = O ) C C 1 = C ( F ) C ( C # C C 2 = C N = C 3 N N = C ( O C ) C 3 = C 2 ) = C ( F ) C = C 1 | <unk>
+N ( S ( C C 1 = C ( F ) C ( C # C C 2 = C C 3 = C ( N N = C 3 O C ) N = C 2 ) = C ( F ) C = C 1 ) ( = O ) = O ) C 1 = C C = C C = C 1 | <unk>
+N ( C 1 = C C = C C = C 1 ) S ( C C 1 = C C = C ( F ) C ( C # C C 2 = C N = C 3 C ( = C 2 ) C ( O C ) = N N 3 ) = C 1 F ) ( = O ) = O | <unk>
+C ( C 1 = C ( F ) C ( C S ( N C 2 = C C = C C = C 2 ) ( = O ) = O ) = C C = C 1 F ) # C C 1 = C N = C 2 N N = C ( O C ) C 2 = C 1 | <unk>
+C 1 = C 2 C ( = N C = C 1 C # C C 1 = C ( F ) C ( C S ( = O ) ( = O ) N C 3 = C C = C C = C 3 ) = C C = C 1 F ) N N = C 2 O C | <unk>
+C 1 ( O C ) = N N C 2 = C 1 C = C ( C # C C 1 = C ( F ) C = C C ( C S ( N C 3 = C C = C C = C 3 ) ( = O ) = O ) = C 1 F ) C = N 2 | <unk>
+O = S ( = O ) ( C C 1 = C C = C ( F ) C ( C # C C 2 = C C 3 = C ( N N = C 3 O C ) N = C 2 ) = C 1 F ) N C 1 = C C = C C = C 1 | <unk>
