@@ -36,4 +36,4 @@ For each of the folders — `enzyme-conditioned`, `enzyme-agnostic`, and `enzyme
 
 ## model
 
-Download model.pt at https://zenodo.org/uploads/17351108.
+Download model.pt at https://zenodo.org/records/17898172.
