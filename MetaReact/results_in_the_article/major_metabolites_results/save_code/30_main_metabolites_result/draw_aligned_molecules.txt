@@ -1,0 +1,76 @@
+from rdkit import Chem
+from rdkit.Chem import rdDepictor, Draw
+from rdkit.Chem import rdFMCS  # 用于计算最大公共子结构 (MCS)
+
+def find_max_common_substructure(smiles_list):
+    # 将 SMILES 转换为 RDKit 分子对象
+    mols = [Chem.MolFromSmiles(smiles) for smiles in smiles_list]
+    
+    # 使用 rdFMCS 计算最大公共子结构 (MCS)
+    mcs_result = rdFMCS.FindMCS(mols)
+    mcs_smiles = mcs_result.smartsString  # 获取最大公共子结构的 SMARTS 表示
+    
+    # 转换最大公共子结构为分子对象
+    mcs_mol = Chem.MolFromSmarts(mcs_smiles)
+    
+    return mcs_smiles, mcs_mol
+
+def align_molecules_on_substructure(smiles_list, mcs_smiles):
+    # 将 SMILES 转换为 RDKit 分子对象
+    mols = [Chem.MolFromSmiles(smiles) for smiles in smiles_list]
+    
+    # 将最大公共子结构转换为 RDKit 分子对象
+    mcs_mol = Chem.MolFromSmarts(mcs_smiles)
+
+    # 计算每个分子的 2D 坐标
+    for mol in mols:
+        rdDepictor.Compute2DCoords(mol)
+
+    # 对每个分子进行子结构匹配
+    for mol in mols:
+        # 找到子结构匹配位置
+        match = mol.GetSubstructMatch(mcs_mol)
+        
+        # 对齐分子
+        if match:
+            # 获取子结构的原子索引
+            conf = mol.GetConformer()
+            substructure_coords = [conf.GetAtomPosition(i) for i in match]
+            
+            # 强制每个分子基于子结构对齐
+            offset = [substructure_coords[0][0] - conf.GetAtomPosition(match[0])[0],
+                      substructure_coords[0][1] - conf.GetAtomPosition(match[0])[1],
+                      substructure_coords[0][2] - conf.GetAtomPosition(match[0])[2]]  # 添加z坐标
+
+            for i in match:
+                # 调整每个原子的位置，使用3D坐标
+                conf.SetAtomPosition(i, conf.GetAtomPosition(i) + Chem.rdGeometry.Point3D(offset[0], offset[1], offset[2]))
+
+    return mols
+
+# 分子 SMILES 列表
+# smiles_list = [
+#     "CCOC(=O)C(C(C)(C)C)NC(=O)C1=CN(C2=CC=CC=C21)CCCCCF",
+#      "OC(C(C(C)(C)C)NC(C1=CN(C2=CC=CC=C21)CCCCCO)=O)=O"  
+# ]
+
+# 找到最大公共子结构 (MCS)
+mcs_smiles, mcs_mol = find_max_common_substructure(smiles_list)
+
+# 输出找到的 MCS
+print(f"Maximum Common Substructure (SMARTS): {mcs_smiles}")
+
+# 对分子进行对齐
+aligned_mols = align_molecules_on_substructure(smiles_list, mcs_smiles)
+
+# 设置更高的分辨率和字体大小
+drawer = Draw.MolDraw2DCairo(600, 600)  # 增大分辨率
+drawer.drawOptions().minFontSize = 25  # 增大字体大小
+drawer.drawOptions().dpi = 500  # 设置更高的分辨率 (dpi)
+
+# 绘制所有对齐后的分子
+img = Draw.MolsToGridImage(aligned_mols, molsPerRow=2, subImgSize=(300, 300))
+
+# 保存图像
+img.save("aligned_molecules_SC_3.png")
+print("PNG saved as aligned_molecules_SC_1.png")

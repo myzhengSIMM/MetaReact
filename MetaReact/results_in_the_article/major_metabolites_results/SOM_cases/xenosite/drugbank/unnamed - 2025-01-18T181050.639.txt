@@ -1,0 +1,151 @@
+{
+  "smiles": "CCCCCC(=O)CCC1C(O)CC(=O)C1CCCCCCC(=O)O",
+  "results": [
+    {
+      "model": "ugt",
+      "version": "0",
+      "depiction": "<?xml version=\"1.0\" ?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" xml:space=\"preserve\" width=\"440.9\" height=\"412.5\" viewBox=\"67.9 40.7 440.9 412.5\"><g class=\"shading\"><g id=\"shading_xeno_25bd0fd549\"/><circle r=\"9.0\" cx=\"347.5\" cy=\"96.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"437.2\" cy=\"240.5\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"415.4\" cy=\"94.8\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"420.8\" cy=\"279.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"412.0\" cy=\"207.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"163.7\" cy=\"227.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"229.5\" cy=\"197.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"271.3\" cy=\"200.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"429.7\" cy=\"351.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"295.4\" cy=\"166.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"139.7\" cy=\"262.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"446.1\" cy=\"312.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"454.9\" cy=\"384.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"337.1\" cy=\"170.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"205.5\" cy=\"231.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"403.1\" cy=\"134.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"361.2\" cy=\"135.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"381.0\" cy=\"70.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"428.4\" cy=\"168.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"438.6\" cy=\"423.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"157.4\" cy=\"300.1\" style=\"fill:rgb(253,253,255)\"/><circle r=\"9.0\" cx=\"307.4\" cy=\"83.7\" style=\"fill:rgb(248,250,255)\"/><circle r=\"9.0\" cx=\"478.8\" cy=\"235.4\" style=\"fill:rgb(241,246,255)\"/><circle r=\"14.7\" cx=\"455.0\" cy=\"81.1\" style=\"fill:rgb(29,93,255)\"/><circle r=\"15.2\" cx=\"97.9\" cy=\"258.5\" style=\"fill:rgb(29,93,255)\"/><circle r=\"11.6\" cx=\"455.0\" cy=\"81.1\" style=\"fill:rgb(0,200,36)\"/><circle r=\"12.3\" cx=\"97.9\" cy=\"258.5\" style=\"fill:rgb(0,200,36)\"/><circle r=\"9.0\" cx=\"455.0\" cy=\"81.1\" style=\"fill:rgb(158,204,0)\"/><circle r=\"9.0\" cx=\"97.9\" cy=\"258.5\" style=\"fill:rgb(181,204,0)\"/></g><g class=\"mol_halo\" style=\"stroke:white;opacity:0.5;stroke-linecap:round;stroke-linejoin:round\"><g id=\"mol_halo_xeno_25bd0fd549\"/><use href=\"#lines_xeno_25bd0fd549\" style=\"stroke-width:4.0\"/><use href=\"#text_xeno_25bd0fd549\" style=\"stroke-width:2.0\"/></g><g class=\"lines\" style=\"stroke:#000000;stroke-width:2.0;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round\"><g id=\"lines_xeno_25bd0fd549\"><path class=\"bond-0 atom-0 atom-1\" d=\"m438.6 423.3l16.3 -38.6\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m454.9 384.7l-25.2 -33.5\"/><path class=\"bond-2 atom-2 atom-3\" d=\"m429.7 351.2l16.4 -38.6\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m446.1 312.6l-25.3 -33.5\"/><path class=\"bond-4 atom-4 atom-5\" d=\"m420.8 279.1l16.4 -38.6\"/><path class=\"bond-5 atom-5 atom-6\" d=\"m435.8 243.8l36.6 -4.5\"/><path class=\"bond-5 atom-5 atom-6\" d=\"m435 237.6l36.6 -4.5\"/><path class=\"bond-6 atom-5 atom-7\" d=\"m437.2 240.5l-25.2 -33.5\"/><path class=\"bond-7 atom-7 atom-8\" d=\"m412 207l16.4 -38.6\"/><path class=\"bond-8 atom-8 atom-9\" d=\"m428.4 168.4l-25.3 -33.5\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m403.1 134.9l12.3 -40.1\"/><path class=\"bond-10 atom-10 atom-11\" d=\"m415.4 94.8l32.8 -11.3\"/><path class=\"bond-11 atom-10 atom-12\" d=\"m415.4 94.8l-34.4 -24.1\"/><path class=\"bond-12 atom-12 atom-13\" d=\"m381 70.7l-33.5 25.3\"/><path class=\"bond-13 atom-13 atom-14\" d=\"m350.6 93.6l-35.4 -10.8\"/><path class=\"bond-13 atom-13 atom-14\" d=\"m348.8 99.7l-35.5 -10.9\"/><path class=\"bond-14 atom-13 atom-15\" d=\"m347.5 96l13.7 39.6\"/><path class=\"bond-15 atom-15 atom-16\" d=\"m361.2 135.6l-24.1 34.4\"/><path class=\"bond-16 atom-16 atom-17\" d=\"m337.1 170l-41.7 -3.7\"/><path class=\"bond-17 atom-17 atom-18\" d=\"m295.4 166.3l-24.1 34.4\"/><path class=\"bond-18 atom-18 atom-19\" d=\"m271.3 200.7l-41.8 -3.7\"/><path class=\"bond-19 atom-19 atom-20\" d=\"m229.5 197l-24 34.4\"/><path class=\"bond-20 atom-20 atom-21\" d=\"m205.5 231.4l-41.8 -3.7\"/><path class=\"bond-21 atom-21 atom-22\" d=\"m163.7 227.7l-24 34.4\"/><path class=\"bond-22 atom-22 atom-23\" d=\"m136.1 261.8l15 32.2\"/><path class=\"bond-22 atom-22 atom-23\" d=\"m141.8 259.1l15 32.3\"/><path class=\"bond-23 atom-22 atom-24\" d=\"m139.7 262.1l-35 -3.1\"/><path class=\"bond-24 atom-15 atom-9\" d=\"m361.2 135.6l41.9 -0.7\"/><use href=\"#s0_xeno_25bd0fd549\" x=\"454.1\" y=\"386.6\"/><path d=\"m431 352.8l-1.3 -1.6 l0.8 -2\"/><path d=\"m445.3 314.5l0.8 -1.9 l-1.3 -1.7\"/><path d=\"m422.1 280.7l-1.3 -1.6 l0.9 -2\"/><use href=\"#s0_xeno_25bd0fd549\" x=\"436.4\" y=\"242.4\"/><path d=\"m413.2 208.7l-1.2 -1.7 l0.8 -1.9\"/><path d=\"m427.5 170.3l0.9 -1.9 l-1.3 -1.7\"/><path d=\"m382.7 71.9l-1.7 -1.2 l-1.7 1.3\"/><path d=\"m349.2 94.7l-1.7 1.3 l0.7 2\"/><use href=\"#s1_xeno_25bd0fd549\" x=\"338.3\" y=\"168.3\"/><use href=\"#s2_xeno_25bd0fd549\" x=\"297.5\" y=\"166.5\"/><use href=\"#s1_xeno_25bd0fd549\" x=\"272.5\" y=\"199\"/><use href=\"#s2_xeno_25bd0fd549\" x=\"231.6\" y=\"197.2\"/><use href=\"#s1_xeno_25bd0fd549\" x=\"206.7\" y=\"229.7\"/><use href=\"#s2_xeno_25bd0fd549\" x=\"165.8\" y=\"227.9\"/><path d=\"m140.9 260.4l-1.2 1.7 l-1.8 -0.2\"/></g></g><g class=\"text\"><g id=\"text_xeno_25bd0fd549\"><path class=\"atom-6\" d=\"m473.4 235.4q0 -2.9 1.4 -4.5q1.4 -1.5 4 -1.5q2.7 0 4.1 1.5q1.4 1.6 1.4 4.5q0 2.9 -1.4 4.5q-1.5 1.6 -4.1 1.6q-2.6 0 -4 -1.6q-1.4 -1.6 -1.4 -4.5m5.4 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.3 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-0.9 1.1 -0.9 3.5q0 2.4 0.9 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-11\" d=\"m449.6 81.2q0 -2.9 1.4 -4.5q1.4 -1.6 4 -1.6q2.6 0 4.1 1.6q1.4 1.6 1.4 4.5q0 2.9 -1.5 4.5q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.4 -1.6 -1.4 -4.5m5.4 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.4 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.1q-1 1.2 -1 3.6q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-11\" d=\"m462.3 75.3l1.6 0 l0 5 l6.1 0 l0 -5 l1.6 0 l0 11.8 l-1.6 0 l0 -5.4 l-6.1 0 l0 5.4 l-1.6 0 l0 -11.8\"/><path class=\"atom-14\" d=\"m302 83.8q0 -2.9 1.4 -4.5q1.4 -1.6 4 -1.6q2.7 0 4.1 1.6q1.4 1.6 1.4 4.5q0 2.9 -1.5 4.5q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.4 -1.6 -1.4 -4.5m5.4 4.8q1.8 0 2.8 -1.2q1 -1.3 1 -3.6q0 -2.4 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.1q-1 1.2 -1 3.6q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-23\" d=\"m151.9 300.1q0 -2.8 1.5 -4.4q1.4 -1.6 4 -1.6q2.6 0 4 1.6q1.4 1.6 1.4 4.4q0 2.9 -1.4 4.6q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.5 -1.7 -1.5 -4.6m5.5 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.3 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-1 1.2 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-24\" d=\"m80.7 252.6l1.6 0 l0 5 l6.1 0 l0 -5 l1.6 0 l0 11.9 l-1.6 0 l0 -5.5 l-6.1 0 l0 5.5 l-1.6 0 l0 -11.9\"/><path class=\"atom-24\" d=\"m92.4 258.5q0 -2.9 1.5 -4.5q1.4 -1.6 4 -1.6q2.6 0 4 1.6q1.4 1.6 1.4 4.5q0 2.9 -1.4 4.5q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.5 -1.6 -1.5 -4.5m5.5 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.3 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-1 1.1 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/></g></g><g class=\"overlay\"><g id=\"overlay_xeno_25bd0fd549\"/></g><defs><path id=\"s0_xeno_25bd0fd549\" d=\"M0,0l0.8 -1.9 l-1.2 -1.7\"/><path id=\"s1_xeno_25bd0fd549\" d=\"M0,0l-1.2 1.7 l-2.1 -0.2\"/><path id=\"s2_xeno_25bd0fd549\" d=\"M0,0l-2.1 -0.2 l-1.2 1.8\"/></defs></svg>",
+      "atom": [
+        0.00018195804315442857,
+        0.000013145262119497567,
+        0.000006685542478102778,
+        0.000011469859990086847,
+        0.000002200276865418618,
+        6.51321044385487e-7,
+        0.014388041676813259,
+        0.00000250840365064389,
+        0.000032734532359315636,
+        0.00002459820101496639,
+        0.0000017293935654191345,
+        0.6666193644067471,
+        0.000032530189547149964,
+        1.4553637082412386e-7,
+        0.007389623609492052,
+        0.00002459820101496639,
+        0.000021279751269636617,
+        0.000007200529137262877,
+        0.00000621940002853663,
+        0.000005756209949395594,
+        0.00002300742741123659,
+        0.0000029737614629708768,
+        0.000011075656585926106,
+        0.002289120608138834,
+        0.71516677502543
+      ]
+    }
+  ],
+  "atoms": {
+    "num": 25
+  },
+  "bonds": {
+    "idx": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        10,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        13,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        20,
+        21
+      ],
+      [
+        21,
+        22
+      ],
+      [
+        22,
+        23
+      ],
+      [
+        22,
+        24
+      ],
+      [
+        15,
+        9
+      ]
+    ]
+  },
+  "name": {
+    "name": "13,14-dihydro-15-oxoprostaglandin E1",
+    "description": "A prostaglandin E obtained by formal oxidation of the 15-hydroxy group and hydrogenation of the 13,14-double bond of prostaglandin E1.",
+    "ismiles": "CCCCCC(=O)CC[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)O",
+    "chebi": 134499,
+    "chebiUrl": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:134499"
+  }
+}

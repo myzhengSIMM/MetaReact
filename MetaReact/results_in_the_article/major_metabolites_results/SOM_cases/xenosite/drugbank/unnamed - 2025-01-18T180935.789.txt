@@ -1,0 +1,145 @@
+{
+  "smiles": "CC(C=CC12OC1(C)CCCC2(C)C)=CC=CC(C)=CC(=O)O",
+  "results": [
+    {
+      "model": "ugt",
+      "version": "0",
+      "depiction": "<?xml version=\"1.0\" ?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" xml:space=\"preserve\" width=\"448.4\" height=\"212.1\" viewBox=\"51.0 0.4 448.4 212.1\"><g class=\"shading\"><g id=\"shading_xeno_10caef4e18\"/><circle r=\"9.0\" cx=\"153.6\" cy=\"70.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"118.4\" cy=\"133.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"196.3\" cy=\"111.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"259.7\" cy=\"146.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"384.3\" cy=\"71.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"154.3\" cy=\"112.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"217.8\" cy=\"147.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"322.0\" cy=\"109.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"280.1\" cy=\"109.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"447.8\" cy=\"107.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"342.4\" cy=\"72.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"138.7\" cy=\"96.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"81.7\" cy=\"113.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"117.0\" cy=\"49.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"81.0\" cy=\"71.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"404.7\" cy=\"35.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"195.0\" cy=\"76.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"167.3\" cy=\"30.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"405.9\" cy=\"107.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"281.3\" cy=\"182.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"155.0\" cy=\"153.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"468.2\" cy=\"70.5\" style=\"fill:rgb(252,253,255)\"/><circle r=\"18.0\" cx=\"469.4\" cy=\"143.1\" style=\"fill:rgb(29,93,255)\"/><circle r=\"15.6\" cx=\"469.4\" cy=\"143.1\" style=\"fill:rgb(0,200,36)\"/><circle r=\"12.7\" cx=\"469.4\" cy=\"143.1\" style=\"fill:rgb(197,204,0)\"/><circle r=\"9.0\" cx=\"469.4\" cy=\"143.1\" style=\"fill:rgb(254,46,0)\"/></g><g class=\"mol_halo\" style=\"stroke:white;opacity:0.5;stroke-linecap:round;stroke-linejoin:round\"><g id=\"mol_halo_xeno_10caef4e18\"/><use href=\"#lines_xeno_10caef4e18\" style=\"stroke-width:4.0\"/><use href=\"#text_xeno_10caef4e18\" style=\"stroke-width:2.0\"/></g><g class=\"lines\" style=\"stroke:#000000;stroke-width:2.0;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round\"><g id=\"lines_xeno_10caef4e18\"><path class=\"bond-0 atom-0 atom-1\" d=\"m281.3 182.6l-21.6 -36\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m259.7 146.6l-41.9 0.7\"/><path class=\"bond-2 atom-2 atom-3\" d=\"m217.8 147.3l-21.5 -36\"/><path class=\"bond-2 atom-2 atom-3\" d=\"m221.3 140.9l-19.7 -32.8\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m196.3 111.3l-42 0.7\"/><path class=\"bond-4 atom-4 atom-5\" d=\"m154.3 112l0.6 34.6\"/><path class=\"bond-5 atom-5 atom-6\" d=\"m148.2 150.1l-29.8 -16.5\"/><path class=\"bond-6 atom-6 atom-7\" d=\"m118.4 133.6l20.3 -36.7\"/><path class=\"bond-7 atom-6 atom-8\" d=\"m118.4 133.6l-36.7 -20.4\"/><path class=\"bond-8 atom-8 atom-9\" d=\"m81.7 113.2l-0.7 -41.9\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m81 71.3l36 -21.6\"/><path class=\"bond-10 atom-10 atom-11\" d=\"m117 49.7l36.6 20.4\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m153.6 70.1l41.4 6.6\"/><path class=\"bond-12 atom-11 atom-13\" d=\"m153.6 70.1l13.7 -39.7\"/><path class=\"bond-13 atom-1 atom-14\" d=\"m259.7 146.6l20.4 -36.7\"/><path class=\"bond-13 atom-1 atom-14\" d=\"m267 146.5l16.9 -30.3\"/><path class=\"bond-14 atom-14 atom-15\" d=\"m280.1 109.9l41.9 -0.7\"/><path class=\"bond-15 atom-15 atom-16\" d=\"m322 109.2l20.4 -36.6\"/><path class=\"bond-15 atom-15 atom-16\" d=\"m318.3 103l18.6 -33.5\"/><path class=\"bond-16 atom-16 atom-17\" d=\"m342.4 72.6l41.9 -0.7\"/><path class=\"bond-17 atom-17 atom-18\" d=\"m384.3 71.9l20.4 -36.7\"/><path class=\"bond-18 atom-17 atom-19\" d=\"m384.3 71.9l21.6 36\"/><path class=\"bond-18 atom-17 atom-19\" d=\"m391.6 71.8l17.8 29.7\"/><path class=\"bond-19 atom-19 atom-20\" d=\"m405.9 107.9l41.9 -0.7\"/><path class=\"bond-20 atom-20 atom-21\" d=\"m449.7 110.3l17 -30.7\"/><path class=\"bond-20 atom-20 atom-21\" d=\"m444.2 107.2l17 -30.7\"/><path class=\"bond-21 atom-20 atom-22\" d=\"m447.8 107.2l17.2 28.5\"/><path class=\"bond-22 atom-6 atom-4\" d=\"m118.4 133.6l35.9 -21.6\"/><path class=\"bond-23 atom-11 atom-4\" d=\"m153.6 70.1l0.7 41.9\"/><path d=\"m219.9 147.3l-2.1 0 l-1.1 -1.8\"/><path d=\"m197.3 113.1l-1 -1.8 l-2.1 0.1\"/><path d=\"m83.5 114.2l-1.8 -1 l0 -2.1\"/><path d=\"m81 73.4l0 -2.1 l1.8 -1.1\"/><path d=\"m115.2 50.8l1.8 -1.1 l1.8 1\"/><path d=\"m279.1 111.8l1 -1.9 l2.1 0\"/><path d=\"m319.9 109.3l2.1 -0.1 l1.1 -1.8\"/><path d=\"m341.4 74.4l1 -1.8 l2.1 -0.1\"/><path d=\"m404.8 106.1l1.1 1.8 l2.1 -0.1\"/><path d=\"m445.7 107.2l2.1 0 l0.9 1.4\"/></g></g><g class=\"text\"><g id=\"text_xeno_10caef4e18\"><path class=\"atom-5\" d=\"m149.6 154q0 -2.9 1.4 -4.5q1.4 -1.6 4 -1.6q2.6 0 4.1 1.6q1.4 1.6 1.4 4.5q0 2.9 -1.5 4.5q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.4 -1.6 -1.4 -4.5m5.4 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.4 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-1 1.1 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-21\" d=\"m462.8 70.5q0 -2.8 1.4 -4.4q1.4 -1.6 4 -1.6q2.6 0 4 1.6q1.5 1.6 1.5 4.4q0 2.9 -1.5 4.6q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.4 -1.7 -1.4 -4.6m5.4 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.3 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-1 1.2 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-22\" d=\"m464 143.2q0 -2.9 1.4 -4.5q1.4 -1.6 4 -1.6q2.6 0 4 1.6q1.5 1.6 1.5 4.5q0 2.8 -1.5 4.5q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.4 -1.6 -1.4 -4.5m5.4 4.8q1.8 0 2.8 -1.2q1 -1.3 1 -3.6q0 -2.4 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.1q-1 1.2 -1 3.6q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-22\" d=\"m476.7 137.3l1.6 0 l0 5 l6.1 0 l0 -5 l1.6 0 l0 11.8 l-1.6 0 l0 -5.5 l-6.1 0 l0 5.5 l-1.6 0 l0 -11.8\"/></g></g><g class=\"overlay\"><g id=\"overlay_xeno_10caef4e18\"/></g></svg>",
+      "atom": [
+        0.0002528423923456844,
+        1.742912003156693e-7,
+        0.0000015852859049487256,
+        1.0275512593076438e-7,
+        5.731363588242347e-7,
+        0.00034296172560046266,
+        8.577245800957957e-8,
+        0.000024076672989422973,
+        0.000031345866946175424,
+        0.00006502626793524562,
+        0.00006032445059927764,
+        1.0048497585957386e-9,
+        0.00012342707233057437,
+        0.00012342707233057437,
+        0.000004231047339584357,
+        0.000004227491304665489,
+        0.00002033546378676061,
+        3.3192307691742987e-7,
+        0.00009697353671836257,
+        0.0002387429458524164,
+        0.000005343469192256907,
+        0.003173616180442811,
+        0.9991350800686304
+      ]
+    }
+  ],
+  "atoms": {
+    "num": 23
+  },
+  "bonds": {
+    "idx": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        1,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        17,
+        19
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        20,
+        21
+      ],
+      [
+        20,
+        22
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        11,
+        4
+      ]
+    ]
+  },
+  "name": {
+    "name": "5,6-epoxyretinoic acid",
+    "description": "A retinoid obtained by epoxidation across the 5,6-double bond of retinoic acid.",
+    "ismiles": "CC(/C=C/C12OC1(C)CCCC2(C)C)=C\\C=C\\C(C)=C\\C(=O)O",
+    "chebi": 80658,
+    "chebiUrl": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:80658"
+  }
+}

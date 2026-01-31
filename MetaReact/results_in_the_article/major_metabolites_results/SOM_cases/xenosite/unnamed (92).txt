@@ -1,0 +1,147 @@
+{
+  "smiles": "Cc1cc2c(s1)Nc1ccccc1N=C2N1CCN(C)CC1",
+  "results": [
+    {
+      "model": "ugt",
+      "version": "0",
+      "depiction": "<?xml version=\"1.0\" ?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" xml:space=\"preserve\" width=\"374.1\" height=\"273.6\" viewBox=\"33.0 12.7 374.1 273.6\"><g class=\"shading\"><g id=\"shading_xeno_60d6302c79\"/><circle r=\"9.0\" cx=\"216.3\" cy=\"219.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"230.0\" cy=\"153.5\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"199.0\" cy=\"181.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"317.4\" cy=\"118.5\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"293.5\" cy=\"84.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"266.4\" cy=\"174.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"258.0\" cy=\"215.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"223.4\" cy=\"112.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"311.4\" cy=\"46.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"359.1\" cy=\"115.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"63.0\" cy=\"63.8\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"195.6\" cy=\"256.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"133.6\" cy=\"47.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"112.7\" cy=\"116.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"353.2\" cy=\"42.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"377.0\" cy=\"77.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"173.7\" cy=\"59.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"152.8\" cy=\"128.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"183.3\" cy=\"100.0\" style=\"fill:rgb(252,253,255)\"/><circle r=\"9.0\" cx=\"103.1\" cy=\"75.8\" style=\"fill:rgb(201,221,255)\"/><circle r=\"9.0\" cx=\"251.7\" cy=\"81.2\" style=\"fill:rgb(157,192,255)\"/><circle r=\"16.3\" cx=\"305.3\" cy=\"158.6\" style=\"fill:rgb(29,93,255)\"/><circle r=\"13.6\" cx=\"305.3\" cy=\"158.6\" style=\"fill:rgb(0,200,36)\"/><circle r=\"10.2\" cx=\"305.3\" cy=\"158.6\" style=\"fill:rgb(197,204,0)\"/><circle r=\"9.0\" cx=\"305.3\" cy=\"158.6\" style=\"fill:rgb(226,174,0)\"/></g><g class=\"mol_halo\" style=\"stroke:white;opacity:0.5;stroke-linecap:round;stroke-linejoin:round\"><g id=\"mol_halo_xeno_60d6302c79\"/><use href=\"#lines_xeno_60d6302c79\" style=\"stroke-width:4.0\"/><use href=\"#text_xeno_60d6302c79\" style=\"stroke-width:2.0\"/></g><g class=\"lines\" style=\"stroke:#000000;stroke-width:2.0;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round\"><g id=\"lines_xeno_60d6302c79\"><path class=\"bond-0 atom-0 atom-1\" d=\"m195.6 256.3l20.7 -36.4\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m216.3 219.9l-17.3 -38.2\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m220.2 213.1l-13.6 -29.8\"/><path class=\"bond-2 atom-2 atom-3\" d=\"m199 181.7l31 -28.2\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m230 153.5l36.4 20.7\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m230.8 161.2l28.5 16.2\"/><path class=\"bond-4 atom-4 atom-5\" d=\"m266.4 174.2l-6.9 33.7\"/><path class=\"bond-5 atom-4 atom-6\" d=\"m266.4 174.2l33 -13.3\"/><path class=\"bond-6 atom-6 atom-7\" d=\"m307.5 151.3l9.9 -32.8\"/><path class=\"bond-7 atom-7 atom-8\" d=\"m317.4 118.5l41.7 -3.5\"/><path class=\"bond-7 atom-7 atom-8\" d=\"m320.5 111.9l34.5 -2.8\"/><path class=\"bond-8 atom-8 atom-9\" d=\"m359.1 115l17.9 -37.8\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m377 77.2l-23.8 -34.5\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m369.8 77.8l-19.7 -28.5\"/><path class=\"bond-10 atom-10 atom-11\" d=\"m353.2 42.7l-41.8 3.4\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m311.4 46.1l-17.9 37.9\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m315.6 52.1l-14.8 31.3\"/><path class=\"bond-12 atom-12 atom-13\" d=\"m293.5 84l-35.9 -2.4\"/><path class=\"bond-13 atom-13 atom-14\" d=\"m245.8 87.6l-22.4 24.5\"/><path class=\"bond-13 atom-13 atom-14\" d=\"m250.5 91.8l-20.4 22.3\"/><path class=\"bond-14 atom-14 atom-15\" d=\"m223.4 112.1l-34.2 -10.3\"/><path class=\"bond-15 atom-15 atom-16\" d=\"m181.6 92.7l-7.9 -33.5\"/><path class=\"bond-16 atom-16 atom-17\" d=\"m173.7 59.2l-40.1 -12.1\"/><path class=\"bond-17 atom-17 atom-18\" d=\"m133.6 47.1l-24.6 23.2\"/><path class=\"bond-18 atom-18 atom-19\" d=\"m97.2 74.1l-34.2 -10.3\"/><path class=\"bond-19 atom-18 atom-20\" d=\"m104.8 83.2l7.9 33.4\"/><path class=\"bond-20 atom-20 atom-21\" d=\"m112.7 116.6l40.1 12.1\"/><path class=\"bond-21 atom-5 atom-1\" d=\"m252.8 215.8l-36.5 4.1\"/><path class=\"bond-22 atom-12 atom-7\" d=\"m293.5 84l23.9 34.5\"/><path class=\"bond-23 atom-21 atom-15\" d=\"m152.8 128.7l24.6 -23.2\"/><path class=\"bond-24 atom-14 atom-3\" d=\"m223.4 112.1l6.6 41.4\"/><path d=\"m199.9 183.6l-0.9 -1.9 l1.6 -1.4\"/><path d=\"m357 115.2l2.1 -0.2 l0.9 -1.9\"/><path d=\"m376.1 79.1l0.9 -1.9 l-1.1 -1.8\"/><path d=\"m354.4 44.4l-1.2 -1.7 l-2.1 0.2\"/><path d=\"m313.5 46l-2.1 0.1 l-0.8 1.9\"/><path d=\"m174.1 60.9l-0.4 -1.7 l-2 -0.6\"/><path d=\"m135.6 47.7l-2 -0.6 l-1.2 1.2\"/><path d=\"m112.3 114.9l0.4 1.7 l2 0.6\"/><path d=\"m150.8 128.1l2 0.6 l1.2 -1.2\"/></g></g><g class=\"text\"><g id=\"text_xeno_60d6302c79\"><path class=\"atom-5\" d=\"m254.6 219.3q0.1 0 0.7 0.3q0.6 0.2 1.2 0.3q0.6 0.2 1.2 0.2q1.1 0 1.8 -0.6q0.6 -0.5 0.6 -1.5q0 -0.6 -0.3 -1q-0.3 -0.4 -0.8 -0.6q-0.6 -0.3 -1.4 -0.5q-1 -0.3 -1.7 -0.6q-0.6 -0.3 -1.1 -1q-0.4 -0.6 -0.4 -1.7q0 -1.5 1 -2.4q1 -0.9 3 -0.9q1.4 0 3 0.6l-0.4 1.3 q-1.4 -0.6 -2.5 -0.6q-1.2 0 -1.8 0.5q-0.6 0.5 -0.6 1.3q0 0.6 0.3 1q0.3 0.4 0.8 0.6q0.5 0.3 1.3 0.5q1.1 0.3 1.7 0.7q0.6 0.3 1.1 1q0.5 0.7 0.5 1.8q0 1.7 -1.1 2.6q-1.1 0.8 -3 0.8q-1 0 -1.8 -0.2q-0.8 -0.2 -1.7 -0.6l0.4 -1.3\"/><path class=\"atom-6\" d=\"m302.7 152.6l3.9 6.3 q0.3 0.7 1 1.8q0.6 1.1 0.6 1.2l0 -9.3 l1.6 0 l0 11.9 l-1.6 0 l-4.2 -6.9 q-0.5 -0.8 -1 -1.7q-0.5 -0.9 -0.7 -1.2l0 9.8 l-1.5 0 l0 -11.9 l1.9 0\"/><path class=\"atom-6\" d=\"m312.1 152.6l1.6 0 l0 5.1 l6.1 0 l0 -5.1 l1.6 0 l0 11.9 l-1.6 0 l0 -5.5 l-6.1 0 l0 5.5 l-1.6 0 l0 -11.9\"/><path class=\"atom-13\" d=\"m249.1 75.2l3.9 6.3 q0.4 0.6 1 1.8q0.6 1.1 0.6 1.1l0 -9.2 l1.6 0 l0 11.9 l-1.6 0 l-4.2 -6.9 q-0.5 -0.8 -1 -1.7q-0.5 -0.9 -0.6 -1.2l0 9.8 l-1.6 0 l0 -11.9 l1.9 0\"/><path class=\"atom-15\" d=\"m180.7 94.1l3.9 6.2 q0.4 0.7 1 1.8q0.6 1.1 0.6 1.2l0 -9.2 l1.6 0 l0 11.8 l-1.6 0 l-4.2 -6.8 q-0.5 -0.9 -1 -1.8q-0.5 -0.9 -0.6 -1.2l0 9.8 l-1.6 0 l0 -11.8 l1.9 0\"/><path class=\"atom-18\" d=\"m100.5 69.9l3.8 6.3 q0.4 0.6 1 1.7q0.7 1.2 0.7 1.2l0 -9.2 l1.6 0 l0 11.9 l-1.6 0 l-4.2 -6.9 q-0.5 -0.8 -1 -1.7q-0.5 -0.9 -0.7 -1.2l0 9.8 l-1.5 0 l0 -11.9 l1.9 0\"/></g></g><g class=\"overlay\"><g id=\"overlay_xeno_60d6302c79\"/></g></svg>",
+      "atom": [
+        0.00009935124094965624,
+        3.5296278826235415e-9,
+        7.906266732936587e-8,
+        5.176900522142288e-9,
+        2.5536634399355076e-7,
+        0.000001401139163697834,
+        0.819564100389822,
+        1.4950029770202956e-7,
+        0.000013047111679321505,
+        0.0004992400652335928,
+        0.00027059276275731765,
+        0.000006379583360154616,
+        1.6252843910540448e-7,
+        0.10427864599171874,
+        0.000003741536892530783,
+        0.0030538565299042,
+        0.0009544656090556098,
+        0.00023688307716870756,
+        0.0566839632823467,
+        0.00003232875170867312,
+        0.00023688307716870756,
+        0.0009544656090556098
+      ]
+    }
+  ],
+  "atoms": {
+    "num": 22
+  },
+  "bonds": {
+    "idx": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ],
+      [
+        18,
+        20
+      ],
+      [
+        20,
+        21
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        12,
+        7
+      ],
+      [
+        21,
+        15
+      ],
+      [
+        14,
+        3
+      ]
+    ]
+  },
+  "name": {
+    "name": "olanzapine",
+    "description": "A benzodiazepine that is 10H-thieno[2,3-b][1,5]benzodiazepine substituted by a methyl group at position 2 and a 4-methylpiperazin-1-yl group at position 4.",
+    "chebi": 7735,
+    "chebiUrl": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:7735"
+  }
+}

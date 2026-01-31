@@ -1,0 +1,172 @@
+{
+  "smiles": "CC12CCC(O)CC1=CCC1C2CCC2(C)C(c3cccnc3)=CCC12",
+  "results": [
+    {
+      "model": "ugt",
+      "version": "0",
+      "depiction": "<?xml version=\"1.0\" ?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" xml:space=\"preserve\" width=\"454.7\" height=\"200.5\" viewBox=\"52.9 -0.7 454.7 200.5\"><g class=\"shading\"><g id=\"shading_xeno_1c0a26cd1e\"/><circle r=\"9.0\" cx=\"155.2\" cy=\"105.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"353.5\" cy=\"116.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"190.2\" cy=\"82.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"379.7\" cy=\"83.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"192.2\" cy=\"40.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"364.5\" cy=\"44.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"229.4\" cy=\"96.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"312.1\" cy=\"109.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"436.2\" cy=\"128.8\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"410.0\" cy=\"161.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"421.1\" cy=\"89.8\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"296.9\" cy=\"70.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"157.6\" cy=\"146.8\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"117.9\" cy=\"86.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"82.9\" cy=\"109.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"255.6\" cy=\"64.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"327.3\" cy=\"148.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"199.9\" cy=\"126.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"368.7\" cy=\"155.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"323.1\" cy=\"38.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"85.2\" cy=\"150.9\" style=\"fill:rgb(254,254,255)\"/><circle r=\"9.0\" cx=\"285.9\" cy=\"142.3\" style=\"fill:rgb(252,253,255)\"/><circle r=\"9.0\" cx=\"244.5\" cy=\"135.9\" style=\"fill:rgb(252,253,255)\"/><circle r=\"9.0\" cx=\"232.6\" cy=\"29.3\" style=\"fill:rgb(252,253,255)\"/><circle r=\"9.0\" cx=\"122.6\" cy=\"169.8\" style=\"fill:rgb(54,117,255)\"/><circle r=\"17.9\" cx=\"477.6\" cy=\"135.1\" style=\"fill:rgb(29,93,255)\"/><circle r=\"15.5\" cx=\"477.6\" cy=\"135.1\" style=\"fill:rgb(0,200,36)\"/><circle r=\"12.6\" cx=\"477.6\" cy=\"135.1\" style=\"fill:rgb(197,204,0)\"/><circle r=\"9.0\" cx=\"477.6\" cy=\"135.1\" style=\"fill:rgb(254,57,0)\"/></g><g class=\"mol_halo\" style=\"stroke:white;opacity:0.5;stroke-linecap:round;stroke-linejoin:round\"><g id=\"mol_halo_xeno_1c0a26cd1e\"/><use href=\"#lines_xeno_1c0a26cd1e\" style=\"stroke-width:4.0\"/><use href=\"#text_xeno_1c0a26cd1e\" style=\"stroke-width:2.0\"/></g><g class=\"lines\" style=\"stroke:#000000;stroke-width:2.0;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round\"><g id=\"lines_xeno_1c0a26cd1e\"><path class=\"bond-0 atom-0 atom-1\" d=\"m327.3 148.7l26.2 -32.7\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m353.5 116l15.2 39\"/><path class=\"bond-2 atom-2 atom-3\" d=\"m368.7 155l41.3 6.4\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m410 161.4l26.2 -32.6\"/><path class=\"bond-4 atom-4 atom-5\" d=\"m436.2 128.8l34.6 5.3\"/><path class=\"bond-5 atom-4 atom-6\" d=\"m436.2 128.8l-15.1 -39\"/><path class=\"bond-6 atom-6 atom-7\" d=\"m421.1 89.8l-41.4 -6.4\"/><path class=\"bond-7 atom-7 atom-8\" d=\"m379.7 83.4l-15.2 -39\"/><path class=\"bond-7 atom-7 atom-8\" d=\"m372.5 82.3l-12.5 -32.3\"/><path class=\"bond-8 atom-8 atom-9\" d=\"m364.5 44.4l-41.4 -6.4\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m323.1 38l-26.2 32.7\"/><path class=\"bond-10 atom-10 atom-11\" d=\"m296.9 70.7l15.2 39\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m312.1 109.7l-26.2 32.6\"/><path class=\"bond-12 atom-12 atom-13\" d=\"m285.9 142.3l-41.4 -6.4\"/><path class=\"bond-13 atom-13 atom-14\" d=\"m244.5 135.9l-15.1 -39\"/><path class=\"bond-14 atom-14 atom-15\" d=\"m229.4 96.9l-29.5 29.8\"/><path class=\"bond-15 atom-14 atom-16\" d=\"m229.4 96.9l-39.2 -14.8\"/><path class=\"bond-16 atom-16 atom-17\" d=\"m190.2 82.1l-35 23\"/><path class=\"bond-17 atom-17 atom-18\" d=\"m155.2 105.1l-37.3 -18.9\"/><path class=\"bond-17 atom-17 atom-18\" d=\"m149.2 109l-30.9 -15.6\"/><path class=\"bond-18 atom-18 atom-19\" d=\"m117.9 86.2l-35 23\"/><path class=\"bond-19 atom-19 atom-20\" d=\"m82.9 109.2l2.3 41.7\"/><path class=\"bond-19 atom-19 atom-20\" d=\"m89.3 112.4l2 34.6\"/><path class=\"bond-20 atom-20 atom-21\" d=\"m85.2 150.9l31.5 15.9\"/><path class=\"bond-21 atom-21 atom-22\" d=\"m128.5 165.9l29.1 -19.1\"/><path class=\"bond-21 atom-21 atom-22\" d=\"m125 160.7l26.1 -17.1\"/><path class=\"bond-22 atom-16 atom-23\" d=\"m190.2 82.1l2 -41.8\"/><path class=\"bond-22 atom-16 atom-23\" d=\"m196.7 77.8l1.6 -32.6\"/><path class=\"bond-23 atom-23 atom-24\" d=\"m192.2 40.3l40.4 -11\"/><path class=\"bond-24 atom-24 atom-25\" d=\"m232.6 29.3l23 35\"/><path class=\"bond-25 atom-7 atom-1\" d=\"m379.7 83.4l-26.2 32.6\"/><path class=\"bond-26 atom-25 atom-10\" d=\"m255.6 64.3l41.3 6.4\"/><path class=\"bond-27 atom-11 atom-1\" d=\"m312.1 109.7l41.4 6.3\"/><path class=\"bond-28 atom-25 atom-14\" d=\"m255.6 64.3l-26.2 32.6\"/><path class=\"bond-29 atom-22 atom-17\" d=\"m157.6 146.8l-2.4 -41.7\"/><path d=\"m367.9 153.1l0.8 1.9 l2 0.4\"/><path d=\"m408 161.1l2 0.3 l1.3 -1.6\"/><path d=\"m421.8 91.7l-0.7 -1.9 l-2.1 -0.4\"/><path d=\"m365.3 46.3l-0.8 -1.9 l-2.1 -0.3\"/><path d=\"m325.2 38.3l-2.1 -0.3 l-1.3 1.6\"/><path d=\"m287.2 140.7l-1.3 1.6 l-2.1 -0.3\"/><path d=\"m246.6 136.3l-2.1 -0.4 l-0.7 -1.9\"/><path d=\"m119.7 87.2l-1.8 -1 l-1.8 1.2\"/><path d=\"m84.6 108l-1.7 1.2 l0.1 2\"/><path d=\"m85.1 148.9l0.1 2 l1.6 0.8\"/><path d=\"m156.1 147.8l1.5 -1 l-0.1 -2.1\"/><path d=\"m192.1 42.4l0.1 -2.1 l2.1 -0.6\"/><path d=\"m230.6 29.8l2 -0.5 l1.2 1.7\"/></g></g><g class=\"text\"><g id=\"text_xeno_1c0a26cd1e\"><path class=\"atom-5\" d=\"m472.1 135.2q0 -2.9 1.5 -4.5q1.4 -1.6 4 -1.6q2.6 0 4 1.6q1.4 1.6 1.4 4.5q0 2.9 -1.4 4.5q-1.4 1.6 -4 1.6q-2.6 0 -4 -1.6q-1.5 -1.6 -1.5 -4.5m5.5 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.4 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-1 1.1 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-5\" d=\"m484.9 129.3l1.6 0 l0 5 l6 0 l0 -5 l1.6 0 l0 11.8 l-1.6 0 l0 -5.4 l-6 0 l0 5.4 l-1.6 0 l0 -11.8\"/><path class=\"atom-21\" d=\"m120 163.9l3.9 6.2 q0.3 0.7 1 1.8q0.6 1.1 0.6 1.2l0 -9.2 l1.6 0 l0 11.8 l-1.6 0 l-4.2 -6.9 q-0.5 -0.8 -1 -1.7q-0.5 -0.9 -0.7 -1.2l0 9.8 l-1.5 0 l0 -11.8 l1.9 0\"/></g></g><g class=\"overlay\"><g id=\"overlay_xeno_1c0a26cd1e\"/></g></svg>",
+      "atom": [
+        0.00017836686032208203,
+        1.5144550975525125e-7,
+        0.0003971118383575717,
+        0.000019296568126208106,
+        0.00000790698667451429,
+        0.9901825820700144,
+        0.00002668223944517102,
+        3.8252583163950854e-7,
+        0.000001734935658538382,
+        0.0006469145330040765,
+        0.00003446427981447237,
+        0.000006011423779629147,
+        0.0030520574593671675,
+        0.0035252566265811906,
+        0.0000019641801100549197,
+        0.0003136814553347576,
+        2.578682177982454e-7,
+        8.179646940622752e-9,
+        0.00006665095420410826,
+        0.00009140934818103022,
+        0.0015297991119611035,
+        0.21939675004674736,
+        0.00003919557491178169,
+        4.4610824277924463e-7,
+        0.0036695987610917283,
+        0.00017735519542092643
+      ]
+    }
+  ],
+  "atoms": {
+    "num": 26
+  },
+  "bonds": {
+    "idx": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        14,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        20,
+        21
+      ],
+      [
+        21,
+        22
+      ],
+      [
+        16,
+        23
+      ],
+      [
+        23,
+        24
+      ],
+      [
+        24,
+        25
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        25,
+        10
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        25,
+        14
+      ],
+      [
+        22,
+        17
+      ]
+    ]
+  },
+  "name": {
+    "name": "abiraterone",
+    "description": "A 3beta-sterol that is androsta-5,16-dien-3beta-ol substituted at position 17 by a 3-pyridyl group. Administered as the O-acetate, it is used for treatment of metastatic castrate-resistant prostate cancer.",
+    "ismiles": "C[C@]12CC[C@H](O)CC1=CC[C@@H]1[C@@H]2CC[C@]2(C)C(c3cccnc3)=CC[C@@H]12",
+    "chebi": 68642,
+    "chebiUrl": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:68642"
+  }
+}

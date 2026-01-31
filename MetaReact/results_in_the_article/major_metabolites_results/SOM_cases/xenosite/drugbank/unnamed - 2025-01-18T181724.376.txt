@@ -1,0 +1,157 @@
+{
+  "smiles": "Cc1ncc2n1-c1ccc(Cl)cc1C(c1ccccc1F)=NC2O",
+  "results": [
+    {
+      "model": "ugt",
+      "version": "0",
+      "depiction": "<?xml version=\"1.0\" ?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" xml:space=\"preserve\" width=\"341.2\" height=\"293.9\" viewBox=\"31.7 25.3 341.2 293.9\"><g class=\"shading\"><g id=\"shading_xeno_81f646a52e\"/><circle r=\"9.0\" cx=\"259.3\" cy=\"151.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"283.0\" cy=\"117.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"207.0\" cy=\"256.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"127.6\" cy=\"120.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"83.6\" cy=\"171.8\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"139.5\" cy=\"229.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"222.4\" cy=\"217.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"155.0\" cy=\"190.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"196.4\" cy=\"184.5\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"277.3\" cy=\"189.4\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"88.9\" cy=\"104.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"162.3\" cy=\"96.8\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"324.8\" cy=\"120.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"217.5\" cy=\"148.3\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"165.5\" cy=\"262.5\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"264.9\" cy=\"79.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"233.0\" cy=\"289.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"319.1\" cy=\"192.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"67.6\" cy=\"210.6\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"342.8\" cy=\"158.1\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"124.3\" cy=\"162.0\" style=\"fill:rgb(254,254,255)\"/><circle r=\"9.0\" cx=\"202.3\" cy=\"109.2\" style=\"fill:rgb(246,249,255)\"/><circle r=\"9.0\" cx=\"61.7\" cy=\"136.1\" style=\"fill:rgb(132,175,255)\"/><circle r=\"17.9\" cx=\"156.2\" cy=\"55.3\" style=\"fill:rgb(29,93,255)\"/><circle r=\"15.5\" cx=\"156.2\" cy=\"55.3\" style=\"fill:rgb(0,200,36)\"/><circle r=\"12.6\" cx=\"156.2\" cy=\"55.3\" style=\"fill:rgb(197,204,0)\"/><circle r=\"9.0\" cx=\"156.2\" cy=\"55.3\" style=\"fill:rgb(254,57,0)\"/></g><g class=\"mol_halo\" style=\"stroke:white;opacity:0.5;stroke-linecap:round;stroke-linejoin:round\"><g id=\"mol_halo_xeno_81f646a52e\"/><use href=\"#lines_xeno_81f646a52e\" style=\"stroke-width:4.0\"/><use href=\"#text_xeno_81f646a52e\" style=\"stroke-width:2.0\"/></g><g class=\"lines\" style=\"stroke:#000000;stroke-width:2.0;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round\"><g id=\"lines_xeno_81f646a52e\"><path class=\"bond-0 atom-0 atom-1\" d=\"m67.6 210.6l16 -38.8\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m83.6 171.8l-17.5 -28.4\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m86.5 164.7l-15 -24.6\"/><path class=\"bond-2 atom-2 atom-3\" d=\"m67.5 129.2l21.4 -25\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m88.9 104.2l38.7 16\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m90.7 111.8l30.3 12.5\"/><path class=\"bond-4 atom-4 atom-5\" d=\"m127.6 120.2l-2.7 34.5\"/><path class=\"bond-5 atom-5 atom-6\" d=\"m130.2 167.5l24.8 23.1\"/><path class=\"bond-6 atom-6 atom-7\" d=\"m155 190.6l-15.5 39\"/><path class=\"bond-6 atom-6 atom-7\" d=\"m159.5 196.3l-12.8 32.2\"/><path class=\"bond-7 atom-7 atom-8\" d=\"m139.5 229.6l26 32.9\"/><path class=\"bond-8 atom-8 atom-9\" d=\"m165.5 262.5l41.5 -6.2\"/><path class=\"bond-8 atom-8 atom-9\" d=\"m168.2 255.7l34.3 -5\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m207 256.3l20.5 25.9\"/><path class=\"bond-10 atom-9 atom-11\" d=\"m207 256.3l15.4 -38.9\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m222.4 217.4l-26 -32.9\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m215.3 218.4l-21.6 -27.1\"/><path class=\"bond-12 atom-12 atom-13\" d=\"m196.4 184.5l21.1 -36.2\"/><path class=\"bond-13 atom-13 atom-14\" d=\"m217.5 148.3l41.8 3.3\"/><path class=\"bond-14 atom-14 atom-15\" d=\"m259.3 151.6l18 37.8\"/><path class=\"bond-14 atom-14 atom-15\" d=\"m266.5 152.1l14.9 31.3\"/><path class=\"bond-15 atom-15 atom-16\" d=\"m277.3 189.4l41.8 3.3\"/><path class=\"bond-16 atom-16 atom-17\" d=\"m319.1 192.7l23.7 -34.6\"/><path class=\"bond-16 atom-16 atom-17\" d=\"m316 186.1l19.6 -28.6\"/><path class=\"bond-17 atom-17 atom-18\" d=\"m342.8 158.1l-18 -37.8\"/><path class=\"bond-18 atom-18 atom-19\" d=\"m324.8 120.3l-41.8 -3.3\"/><path class=\"bond-18 atom-18 atom-19\" d=\"m320.7 126.3l-34.6 -2.7\"/><path class=\"bond-19 atom-19 atom-20\" d=\"m283 117l-14.6 -30.5\"/><path class=\"bond-20 atom-13 atom-21\" d=\"m217.5 148.3l-12.3 -31.7\"/><path class=\"bond-20 atom-13 atom-21\" d=\"m210.5 147.8l-11.2 -29\"/><path class=\"bond-21 atom-21 atom-22\" d=\"m196.4 107.4l-34.1 -10.6\"/><path class=\"bond-22 atom-22 atom-23\" d=\"m162.3 96.8l-5 -33.9\"/><path class=\"bond-23 atom-5 atom-1\" d=\"m118.4 163.5l-34.8 8.3\"/><path class=\"bond-24 atom-12 atom-6\" d=\"m196.4 184.5l-41.4 6.1\"/><path class=\"bond-25 atom-19 atom-14\" d=\"m283 117l-23.7 34.6\"/><path class=\"bond-26 atom-22 atom-4\" d=\"m162.3 96.8l-34.7 23.4\"/><path d=\"m87.8 105.5l1.1 -1.3 l1.9 0.8\"/><path d=\"m140.3 227.7l-0.8 1.9 l1.3 1.6\"/><path d=\"m164.2 260.8l1.3 1.7 l2.1 -0.3\"/><path d=\"m221.7 219.3l0.7 -1.9 l-1.3 -1.7\"/><path d=\"m276.4 187.5l0.9 1.9 l2.1 0.2\"/><path d=\"m317 192.5l2.1 0.2 l1.2 -1.8\"/><path d=\"m341.7 159.8l1.1 -1.7 l-0.9 -1.9\"/><path d=\"m325.7 122.2l-0.9 -1.9 l-2.1 -0.2\"/></g></g><g class=\"text\"><g id=\"text_xeno_81f646a52e\"><path class=\"atom-2\" d=\"m59 130.2l3.9 6.3 q0.4 0.6 1 1.7q0.6 1.1 0.7 1.2l0 -9.2 l1.6 0 l0 11.8 l-1.7 0 l-4.1 -6.8 q-0.5 -0.8 -1 -1.8q-0.6 -0.9 -0.7 -1.2l0 9.8 l-1.5 0 l0 -11.8 l1.8 0\"/><path class=\"atom-5\" d=\"m121.7 156.1l3.9 6.3 q0.4 0.6 1 1.7q0.6 1.2 0.6 1.2l0 -9.2 l1.6 0 l0 11.9 l-1.6 0 l-4.2 -6.9 q-0.5 -0.8 -1 -1.7q-0.5 -1 -0.6 -1.2l0 9.8 l-1.6 0 l0 -11.9 l1.9 0\"/><path class=\"atom-10\" d=\"m228.5 289.6q0 -2.9 1.3 -4.5q1.4 -1.5 4.1 -1.5q2.4 0 3.7 1.7l-1.1 0.9 q-1 -1.3 -2.6 -1.3q-1.8 0 -2.8 1.2q-0.9 1.2 -0.9 3.5q0 2.4 0.9 3.6q1 1.2 2.9 1.2q1.3 0 2.9 -0.8l0.4 1.2 q-0.6 0.4 -1.5 0.7q-1 0.2 -2 0.2q-2.6 0 -4 -1.6q-1.3 -1.5 -1.3 -4.5\"/><path class=\"atom-10\" d=\"m238.8 282.8l1.6 0 l0 12.8 l-1.6 0 l0 -12.8\"/><path class=\"atom-20\" d=\"m261.4 73.3l7.1 0 l0 1.3 l-5.5 0 l0 3.6 l4.9 0 l0 1.4 l-4.9 0 l0 5.5 l-1.6 0 l0 -11.8\"/><path class=\"atom-21\" d=\"m199.7 103.3l3.9 6.3 q0.4 0.6 1 1.7q0.6 1.2 0.6 1.2l0 -9.2 l1.6 0 l0 11.9 l-1.6 0 l-4.2 -6.9 q-0.5 -0.8 -1 -1.7q-0.5 -1 -0.7 -1.2l0 9.8 l-1.5 0 l0 -11.9 l1.9 0\"/><path class=\"atom-23\" d=\"m150.7 55.3q0 -2.8 1.4 -4.4q1.5 -1.6 4.1 -1.6q2.6 0 4 1.6q1.4 1.6 1.4 4.4q0 2.9 -1.4 4.5q-1.4 1.7 -4 1.7q-2.6 0 -4.1 -1.7q-1.4 -1.6 -1.4 -4.5m5.5 4.8q1.8 0 2.8 -1.2q1 -1.2 1 -3.6q0 -2.3 -1 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-1 1.2 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-23\" d=\"m163.5 49.4l1.6 0 l0 5.1 l6.1 0 l0 -5.1 l1.6 0 l0 11.9 l-1.6 0 l0 -5.5 l-6.1 0 l0 5.5 l-1.6 0 l0 -11.9\"/></g></g><g class=\"overlay\"><g id=\"overlay_xeno_81f646a52e\"/></g></svg>",
+      "atom": [
+        0.00006630642813269855,
+        2.9244226944937085e-8,
+        0.13162722558073153,
+        0.000004514992563293384,
+        2.7170025738035284e-8,
+        0.0018634292726845691,
+        5.125895639431154e-7,
+        2.4691072230045503e-7,
+        0.000009844836078440714,
+        2.4276846019448042e-8,
+        0.00003766574132354879,
+        3.9839672673373705e-7,
+        6.457860883576318e-7,
+        0.000007475550144693315,
+        1.3619300811696545e-9,
+        0.0000021967635176126983,
+        0.0000539969616162558,
+        0.00023624441036274615,
+        0.000007172690216305768,
+        1.1957308017465007e-8,
+        0.000027224275474451903,
+        0.00981876244421746,
+        0.00000501721148730902,
+        0.9909960031330995
+      ]
+    }
+  ],
+  "atoms": {
+    "num": 24
+  },
+  "bonds": {
+    "idx": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        13,
+        21
+      ],
+      [
+        21,
+        22
+      ],
+      [
+        22,
+        23
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        12,
+        6
+      ],
+      [
+        19,
+        14
+      ],
+      [
+        22,
+        4
+      ]
+    ]
+  },
+  "name": {
+    "name": "4-hydroxymidazolam",
+    "description": "An imidazobenzodiazepine that is midazolam which is substituted by a hydroxy group at position 4. It is the minor hydroxylated metabolite of the anesthetic, midazolam.",
+    "chebi": 145331,
+    "chebiUrl": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:145331"
+  }
+}

@@ -1,0 +1,11 @@
+substrate
+COC1=NNC2=C1C=C(C#CC3=C(F)C=CC(CS(=O)(NC4=CC=CC=C4)=O)=C3F)C=N2
+c1(C#Cc2cnc3c(c(OC)n[nH]3)c2)c(F)c(CS(Nc2ccccc2)(=O)=O)ccc1F
+O=S(Cc1c(F)c(C#Cc2cc3c(OC)n[nH]c3nc2)c(F)cc1)(=O)Nc1ccccc1
+N(c1ccccc1)S(=O)(=O)Cc1c(F)c(C#Cc2cnc3[nH]nc(OC)c3c2)c(F)cc1
+N(S(Cc1c(F)c(C#Cc2cc3c([nH]nc3OC)nc2)c(F)cc1)(=O)=O)c1ccccc1
+N(c1ccccc1)S(Cc1ccc(F)c(C#Cc2cnc3c(c(OC)n[nH]3)c2)c1F)(=O)=O
+C(c1c(F)c(CS(Nc2ccccc2)(=O)=O)ccc1F)#Cc1cnc2[nH]nc(OC)c2c1
+c1c2c([nH]nc2OC)ncc1C#Cc1c(F)c(CS(=O)(=O)Nc2ccccc2)ccc1F
+c1(OC)c2c(ncc(C#Cc3c(F)ccc(CS(Nc4ccccc4)(=O)=O)c3F)c2)[nH]n1
+O=S(=O)(Cc1ccc(F)c(C#Cc2cc3c(OC)n[nH]c3nc2)c1F)Nc1ccccc1

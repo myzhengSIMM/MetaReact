@@ -1,0 +1,105 @@
+{
+  "smiles": "CCC1C(=O)OCC1Cc1cncn1C",
+  "results": [
+    {
+      "model": "ugt",
+      "version": "0",
+      "depiction": "<?xml version=\"1.0\" ?><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" baseProfile=\"full\" xml:space=\"preserve\" width=\"301.3\" height=\"169.0\" viewBox=\"25.4 -1.0 301.3 169.0\"><g class=\"shading\"><g id=\"shading_xeno_67774e4ba3\"/><circle r=\"9.0\" cx=\"123.0\" cy=\"104.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"255.1\" cy=\"59.7\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"89.5\" cy=\"129.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"234.7\" cy=\"96.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"67.8\" cy=\"64.9\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"252.2\" cy=\"134.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"133.7\" cy=\"30.2\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"293.8\" cy=\"138.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"226.8\" cy=\"29.0\" style=\"fill:rgb(255,255,255)\"/><circle r=\"9.0\" cx=\"193.7\" cy=\"88.0\" style=\"fill:rgb(254,254,255)\"/><circle r=\"9.0\" cx=\"188.8\" cy=\"46.5\" style=\"fill:rgb(247,250,255)\"/><circle r=\"9.0\" cx=\"163.0\" cy=\"116.4\" style=\"fill:rgb(246,249,255)\"/><circle r=\"9.0\" cx=\"296.7\" cy=\"54.8\" style=\"fill:rgb(246,249,255)\"/><circle r=\"9.0\" cx=\"109.6\" cy=\"64.4\" style=\"fill:rgb(224,235,255)\"/><circle r=\"15.3\" cx=\"55.4\" cy=\"104.9\" style=\"fill:rgb(29,93,255)\"/><circle r=\"12.3\" cx=\"55.4\" cy=\"104.9\" style=\"fill:rgb(0,200,36)\"/><circle r=\"9.0\" cx=\"55.4\" cy=\"104.9\" style=\"fill:rgb(182,204,0)\"/></g><g class=\"mol_halo\" style=\"stroke:white;opacity:0.5;stroke-linecap:round;stroke-linejoin:round\"><g id=\"mol_halo_xeno_67774e4ba3\"/><use href=\"#lines_xeno_67774e4ba3\" style=\"stroke-width:4.0\"/><use href=\"#text_xeno_67774e4ba3\" style=\"stroke-width:2.0\"/></g><g class=\"lines\" style=\"stroke:#000000;stroke-width:2.0;stroke-opacity:1;stroke-linecap:round;stroke-linejoin:round\"><g id=\"lines_xeno_67774e4ba3\"><path class=\"bond-0 atom-0 atom-1\" d=\"m293.8 138l-41.6 -3.8\"/><path class=\"bond-1 atom-1 atom-2\" d=\"m252.2 134.2l-17.5 -38\"/><path class=\"bond-2 atom-2 atom-3\" d=\"m234.7 96.2l20.4 -36.5\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m253.2 63.1l37 -4.4\"/><path class=\"bond-3 atom-3 atom-4\" d=\"m252.5 56.9l37 -4.4\"/><path class=\"bond-4 atom-3 atom-5\" d=\"m255.1 59.7l-21.5 -23.3\"/><path class=\"bond-5 atom-5 atom-6\" d=\"m219.9 32.1l-31.1 14.4\"/><path class=\"bond-6 atom-6 atom-7\" d=\"m188.8 46.5l4.9 41.5\"/><path class=\"bond-7 atom-7 atom-8\" d=\"m193.7 88l-30.7 28.4\"/><path class=\"bond-8 atom-8 atom-9\" d=\"m163 116.4l-40 -12.4\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m123 104l-33.5 25\"/><path class=\"bond-9 atom-9 atom-10\" d=\"m115.6 101.7l-26.2 19.6\"/><path class=\"bond-10 atom-10 atom-11\" d=\"m89.5 129l-28.2 -20\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m57.6 97.6l10.2 -32.7\"/><path class=\"bond-11 atom-11 atom-12\" d=\"m63.6 99.4l8.8 -28.3\"/><path class=\"bond-12 atom-12 atom-13\" d=\"m67.8 64.9l35.9 -0.4\"/><path class=\"bond-13 atom-13 atom-14\" d=\"m114.8 57.1l18.9 -26.9\"/><path class=\"bond-14 atom-7 atom-2\" d=\"m193.7 88l41 8.2\"/><path class=\"bond-15 atom-13 atom-9\" d=\"m112.1 71.7l10.9 32.3\"/><path d=\"m254.3 134.4l-2.1 -0.2 l-0.9 -1.9\"/><path d=\"m254.1 61.5l1 -1.8 l-1 -1.2\"/><path d=\"m190.3 45.8l-1.5 0.7 l0.2 2.1\"/><path d=\"m164.5 115l-1.5 1.4 l-2 -0.6\"/><path d=\"m91.2 127.8l-1.7 1.2 l-1.4 -1\"/><path d=\"m67.3 66.6l0.5 -1.7 l1.8 0\"/></g></g><g class=\"text\"><g id=\"text_xeno_67774e4ba3\"><path class=\"atom-4\" d=\"m291.2 54.8q0 -2.8 1.4 -4.4q1.4 -1.6 4.1 -1.6q2.6 0 4 1.6q1.4 1.6 1.4 4.4q0 2.9 -1.4 4.5q-1.4 1.7 -4 1.7q-2.6 0 -4.1 -1.7q-1.4 -1.6 -1.4 -4.5m5.5 4.8q1.8 0 2.8 -1.2q0.9 -1.2 0.9 -3.6q0 -2.3 -0.9 -3.5q-1 -1.2 -2.8 -1.2q-1.8 0 -2.8 1.2q-1 1.2 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-5\" d=\"m221.3 29q0 -2.8 1.4 -4.4q1.4 -1.6 4.1 -1.6q2.6 0 4 1.6q1.4 1.6 1.4 4.4q0 2.9 -1.4 4.5q-1.4 1.7 -4 1.7q-2.6 0 -4.1 -1.7q-1.4 -1.6 -1.4 -4.5m5.5 4.8q1.8 0 2.7 -1.2q1 -1.2 1 -3.6q0 -2.3 -1 -3.5q-0.9 -1.2 -2.7 -1.2q-1.8 0 -2.8 1.2q-1 1.2 -1 3.5q0 2.4 1 3.6q1 1.2 2.8 1.2\"/><path class=\"atom-11\" d=\"m52.8 98.9l3.8 6.3 q0.4 0.6 1 1.8q0.7 1.1 0.7 1.1l0 -9.2 l1.6 0 l0 11.9 l-1.7 0 l-4.1 -6.9 q-0.5 -0.8 -1 -1.7q-0.5 -0.9 -0.7 -1.2l0 9.8 l-1.5 0 l0 -11.9 l1.9 0\"/><path class=\"atom-13\" d=\"m107 58.5l3.9 6.2 q0.4 0.7 1 1.8q0.6 1.1 0.6 1.2l0 -9.2 l1.6 0 l0 11.8 l-1.6 0 l-4.2 -6.8 q-0.5 -0.8 -1 -1.8q-0.5 -0.9 -0.6 -1.2l0 9.8 l-1.6 0 l0 -11.8 l1.9 0\"/></g></g><g class=\"overlay\"><g id=\"overlay_xeno_67774e4ba3\"/></g></svg>",
+      "atom": [
+        0.000161177805565554,
+        0.00008459016726910502,
+        0.0000172864120839149,
+        3.6919440559527716e-7,
+        0.009938496103983206,
+        0.000657099155791372,
+        0.008222208417628885,
+        0.001146920089028457,
+        0.009066078695425087,
+        6.950328629352989e-8,
+        0.000008457040886434857,
+        0.7179331668946869,
+        0.00004474590547571152,
+        0.03211371894613318,
+        0.00013026754624546565
+      ]
+    }
+  ],
+  "atoms": {
+    "num": 15
+  },
+  "bonds": {
+    "idx": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        7,
+        2
+      ],
+      [
+        13,
+        9
+      ]
+    ]
+  },
+  "name": {
+    "name": "(+)-pilocarpine",
+    "description": "The (+)-enantiomer of pilocarpine.",
+    "ismiles": "CC[C@@H]1C(=O)OC[C@@H]1Cc1cncn1C",
+    "chebi": 8207,
+    "chebiUrl": "https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:8207"
+  }
+}
