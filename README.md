@@ -31,9 +31,11 @@ For each of the following directories — `enzyme-conditioned`, `enzyme-agnostic
 1. Place your corresponding data and model.pt  into the `test_drugs.csv` file within each folder.
 2. Execute the corresponding prediction script:
 
+```
 predict_enzyme-conditioned.sh
 predict_enzyme-agnostic.sh
 predict_enzyme-completion.sh
+```
 
 The results are saved in `pred_results.csv`. Additionally, visual diagrams are generated to illustrate the structural transformations between the substrate and its predicted metabolites.
 
